@@ -5,13 +5,13 @@ relative_permalinks: true
 # Setup
 title:            Berkay Kaya
 tagline:          The Jekyll Butler
-url:              http://getpoole.com
+url:              http://berkaykaya.com
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Berkay Kaya
+  url:            https://twitter.com/berkayk
+  email:          berkayk@gmail.com
 
 # Custom vars
 version:          1.0.0
