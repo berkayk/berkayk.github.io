@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Blog
+title: Selam
 ---
 
 Hello Jekyll, how are you!

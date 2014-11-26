@@ -4,9 +4,9 @@ relative_permalinks: true
 
 # Setup
 title:            Berkay Kaya
-tagline:          The Jekyll Butler
+tagline:          
 url:              http://berkaykaya.com
-paginate:         1
+paginate:         2
 baseurl:          /
 author:
   name:           Berkay Kaya
